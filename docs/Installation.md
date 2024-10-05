@@ -168,3 +168,5 @@ You should see output similar to this:
 Now that you've verified the checksums file, you can confirm that the checksum of your download matches. For example, if you downloaded the `wordfence_amd64.tar.gz` (the standalone Linux executable for the `x86_64` architecture) to the same directory as `checksums.txt`, you can verify the checksum matches with:
 
 	sha256sum --ignore-missing -c checksums.txt
+syaifulnizamshamsudin@gmail.com
+Developer / Administrator
